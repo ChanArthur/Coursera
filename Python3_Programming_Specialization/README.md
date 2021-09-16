@@ -1,5 +1,5 @@
 About this Specialization
-73,741 recent views
+
 This specialization teaches the fundamentals of programming in Python 3. We will begin at the beginning, with variables, conditionals, and loops, and get to some intermediate material like keyword parameters, list comprehensions, lambda expressions, and class inheritance.
 
 You will have lots of opportunities to practice. You will also learn ways to reason about program execution, so that it is no longer mysterious, and you are able to debug programs when they don’t work.
